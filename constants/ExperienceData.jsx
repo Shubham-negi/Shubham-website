@@ -3,7 +3,7 @@ export const ExperienceData = [
     companyName: "Briz solutions",
     location: "Noida, India",
     role: "Unity developer , Full-stack",
-    fromTo: "September 2023 - Present",
+    fromTo: "September 2024 - Present",
     description:
       "",
     side: "right",

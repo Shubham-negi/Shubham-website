@@ -49,7 +49,7 @@ export const ProjectsData = [
     
     {
         projectName: "Aviation simulation ",
-        liveUrl: "https://www.youtube.com/watch?v=Axe4GBRhq4o&list=PLVfozG547ScD8B_nXln0Ts31RaGfPwNEX",
+        liveUrl: "https://youtu.be/FO3uA3FcpBg",
         githubUrl: "",
         projectImage: {
             imageUrl: "/images/cockpit.jpg"
